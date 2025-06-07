@@ -40,7 +40,7 @@ The project is structured into modular components:
 │   ├── addLighting.js
 │   ├── interaction.js
 │   └── cameraAnimation.js
-└── README.md
+
 ```
 
 # License
